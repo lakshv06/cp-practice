@@ -1,0 +1,91 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IntelliJ / IDEA
+*.iml
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+.recommenders/
+
+# VS Code
+.vscode/
+
+# Build directories
+bin/
+build/
+target/
+out/
+
+# Java compiled files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+**/target/
+
+# Gradle
+.gradle/
+**/build/
+
+# Temporary files
+*~
+*.tmp
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.idea/
+*.iml
+
+# C/C++ build artifacts
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+a.out
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CMakeLists.txt.user
+build/
+cmake-build-*/
+
+# Others
+coverage/
+report/
